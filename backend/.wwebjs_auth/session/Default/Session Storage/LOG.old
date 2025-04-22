@@ -1,3 +1,4 @@
-2025/04/22-01:50:52.501 3670 Reusing MANIFEST D:\BIG\WAG\backend\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
-2025/04/22-01:50:52.501 3670 Recovering log #3
-2025/04/22-01:50:52.501 3670 Reusing old log D:\BIG\WAG\backend\.wwebjs_auth\session\Default\Session Storage/000003.log 
+2025/04/22-20:13:33.660 6ac Creating DB D:\BIG\wag\backend\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2025/04/22-20:13:33.677 6ac Reusing MANIFEST D:\BIG\wag\backend\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
+2025/04/22-20:13:33.677 6ac Recovering log #3
+2025/04/22-20:13:33.678 6ac Reusing old log D:\BIG\wag\backend\.wwebjs_auth\session\Default\Session Storage/000003.log 
