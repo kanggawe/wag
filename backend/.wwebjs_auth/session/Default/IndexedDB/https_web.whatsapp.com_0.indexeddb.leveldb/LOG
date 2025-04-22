@@ -1,13 +1,6 @@
-2025/04/22-02:08:04.630 830 Reusing MANIFEST D:\BIG\WAG\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/22-02:08:04.630 830 Recovering log #274
-2025/04/22-02:08:04.631 830 Reusing old log D:\BIG\WAG\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000274.log 
-2025/04/22-02:08:04.631 830 Delete type=2 #272
-2025/04/22-02:08:04.631 830 Delete type=2 #273
-2025/04/22-02:08:05.800 275c Compacting 1@1 + 1@2 files
-2025/04/22-02:08:05.887 275c Generated table #279@1: 28858 keys, 2177143 bytes
-2025/04/22-02:08:05.938 275c Generated table #280@1: 56417 keys, 1169034 bytes
-2025/04/22-02:08:05.938 275c Compacted 1@1 + 1@2 files => 3346177 bytes
-2025/04/22-02:08:05.938 275c compacted to: files[ 0 1 2 0 0 0 0 ]
-2025/04/22-02:08:05.939 275c Delete type=2 #269
-2025/04/22-02:08:05.939 275c Delete type=2 #276
-2025/04/22-02:08:06.330 2148 Manual compaction at level-0 from '\x00a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/22-20:14:54.034 294c Creating DB D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2025/04/22-20:14:54.049 294c Reusing MANIFEST D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/22-20:14:54.049 294c Recovering log #589
+2025/04/22-20:14:54.050 294c Reusing old log D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000589.log 
+2025/04/22-20:14:54.051 294c Delete type=2 #588
+2025/04/22-20:14:54.051 294c Delete type=2 #591
