@@ -1,6 +1,4 @@
-2025/04/22-20:14:54.034 294c Creating DB D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2025/04/22-20:14:54.049 294c Reusing MANIFEST D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/22-20:14:54.049 294c Recovering log #589
-2025/04/22-20:14:54.050 294c Reusing old log D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000589.log 
-2025/04/22-20:14:54.051 294c Delete type=2 #588
-2025/04/22-20:14:54.051 294c Delete type=2 #591
+2025/04/23-04:53:56.944 63c Reusing MANIFEST D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/23-04:53:56.944 63c Recovering log #88
+2025/04/23-04:53:56.961 63c Reusing old log D:\BIG\wag\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000088.log 
+2025/04/23-04:53:58.571 63c Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
